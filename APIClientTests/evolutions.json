@@ -1,0 +1,10 @@
+[
+    {
+        "evolves_from": 1,
+        "trigger": "at level 16"
+    },
+    {
+        "evolves_into": 3,
+        "trigger": "at level 32"
+    }
+]

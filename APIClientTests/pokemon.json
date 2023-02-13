@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "identifier": "bulbasaur",
+        "types": [
+            {
+                "id": 12,
+                "identifier": "grass"
+            },
+            {
+                "id": 4,
+                "identifier": "poison"
+            }
+        ],
+        "image_url": "https://s3.amazonaws.com/hiring-test-assets/1.png"
+    },
+    {
+        "id": 2,
+        "identifier": "ivysaur",
+        "types": [
+            {
+                "id": 12,
+                "identifier": "grass"
+            },
+            {
+                "id": 4,
+                "identifier": "poison"
+            }
+        ],
+        "image_url": "https://s3.amazonaws.com/hiring-test-assets/2.png"
+    },
+    {
+        "id": 3,
+        "identifier": "venusaur",
+        "types": [
+            {
+                "id": 12,
+                "identifier": "grass"
+            },
+            {
+                "id": 4,
+                "identifier": "poison"
+            }
+        ],
+        "image_url": "https://s3.amazonaws.com/hiring-test-assets/3.png"
+    }
+]
